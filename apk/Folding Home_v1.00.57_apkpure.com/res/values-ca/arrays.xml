@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>"En registrar-vos a Folding@Home, ajudeu als científics de la Universitat de Stanford en la seva missió de trobar la cura de moltes de les malalties més comunes mitjançant la donació de la capacitat de processament del vostre telèfon mentre no l'esteu utilitzant."</item>
+        <item>"El plegament fa referència a activitats proteiques dels nostres cossos. La recerca del plegament de proteïnes necessita tants càlculs que la Universitat de Stanford demana a la gent que doni l'energia de processament sense utilitzar dels seus telèfons per calcular alguns dels números. Mentre dormiu, la Universitat de Stanford enviarà un problema de plegament al vostre telèfon perquè el resolgui. Un cop finalitzats els càlculs, els resultats es tornaran a enviar a Stanford."</item>
+        <item>"Podeu trobar més informació sobre Folding@Home a la pàgina inicial:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

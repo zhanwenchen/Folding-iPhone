@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>通过注册Folding@Home，您可以在自己不使用时将手机的处理能力贡献出来，从而帮助斯坦福大学的科学家们寻找许多常见疾病的治疗方法。</item>
+        <item>折叠是指我们体内的蛋白质活动。对蛋白质折叠的研究需要进行大量的计算，因此斯坦福大学请求人们将手机中不使用的处理能力贡献出来以处理一些数字。在您睡眠时，斯坦福大学会向您的手机发送一个折叠问题以进行处理。计算完后成，结果会发送回斯坦福大学。</item>
+        <item>"您可以在以下主页上找到有关Folding@Home的更多信息：
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

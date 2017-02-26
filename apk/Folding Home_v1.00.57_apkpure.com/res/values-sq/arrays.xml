@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Duke u regjistruar për Folding@Home, ju ndihmoni shkencëtarët e universitetit Stanford në përpjekjet e tyre për të gjetur kurën e shumë nga sëmundjet tona më të zakonshme, duke dhuruar fuqinë e përpunimit të telefonit tuaj kur nuk e përdorni vetë.</item>
+        <item>Palosja (folding) i referohet aktiviteteve të proteinave në trupat tanë. Kërkimi mbi palosjen e proteinave kërkon kaq shumë llogaritje sa universiteti Stanford i kërkon njerëzve që të dhurojnë fuqinë e përpunimit të papërdorur të telefonave të tyre për të përpunuar disa nga numrat. Kur ju flini gjumë, universiteti Stanford do të dërgojë një problem të palosjes që ta zgjidhi telefoni juaj. Kur përfundojnë llogaritjet, rezultatet dërgohen përsëri te Stanford.</item>
+        <item>"Mund të gjeni më shumë informacione mbi Folding@Home në faqen fillestare:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

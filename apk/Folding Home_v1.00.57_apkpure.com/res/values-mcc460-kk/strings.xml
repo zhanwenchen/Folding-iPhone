@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Телефон WLAN желісіне жалғануы керек</string>
+    <string name="data_usage_text">"Құрылғыңыз WLAN желісіне қосылған болуы тиіс.
+Егер өлшенетін немесе ақылы WLAN байланысын пайдалансаңыз, деректерді пайдалану үшін ақы төлеуіңіз мүмкін.
+
+Қосымша ақпарат алу үшін Интернет провайдеріне хабарласыңыз."</string>
+    <string name="no_cost_mobile_data_text">Телефон WLAN желісіне қосулы болуы керек.</string>
+    <string name="settings_auto_wifi_msg">Қатысу кезінде WLAN желісін қосу</string>
+    <string name="whats_new_conditions_indicator">WLAN желісінің дайын екендігін, бірақ телефонды зарядтағышқа қосу керектігін және батареяны 100% зарядтау қажеттігін көрсетеді.</string>
+</resources>

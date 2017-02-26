@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarStyle="outsideInset" android:id="@id/fragment_wizard_welcome" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/activity_padding_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/activity_padding_horizontal" android:paddingEnd="@dimen/activity_padding_horizontal">
+        <TextView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_medium" android:text="@string/whats_new" android:fontFamily="sans-seriff-light" android:textAlignment="viewStart" style="@android:style/TextAppearance.DeviceDefault.Large" />
+        <include android:id="@id/status_bar_paused" layout="@layout/status_bar" />
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_small" android:src="@drawable/img_arrow" android:contentDescription="@string/whats_new" />
+        <include android:id="@id/status_bar_stand_by" layout="@layout/status_bar" />
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_small" android:src="@drawable/img_arrow" android:contentDescription="@string/whats_new" />
+        <include android:id="@id/status_bar_contributing" layout="@layout/status_bar" />
+        <TextView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_medium" android:text="@string/new_power_button" android:fontFamily="sans-seriff-light" android:textAlignment="viewStart" style="@android:style/TextAppearance.DeviceDefault.Large" />
+        <TextView android:textSize="@dimen/wizard_font_size_small" android:textColor="@color/sony_gray_text" android:autoLink="web" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:text="@string/whats_new_power_button" android:fontFamily="sans-seriff" android:textAlignment="viewStart" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_facebook_image_download_unknown_error">Ralat tidak dijangka ketika memuat turun imej.</string>
+    <string name="com_facebook_internet_permission_error_message">Log masuk WebView memerlukan kebenaran INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Ralat AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Disukai</string>
+    <string name="com_facebook_like_button_not_liked">Suka</string>
+    <string name="com_facebook_loading">Memuatkan...</string>
+    <string name="com_facebook_loginview_cancel_action">Batal</string>
+    <string name="com_facebook_loginview_log_in_button">Log masuk</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log masuk dengan Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log keluar</string>
+    <string name="com_facebook_loginview_log_out_button">Log keluar</string>
+    <string name="com_facebook_loginview_logged_in_as">Dilog masuk sebagai: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Dilog masuk menggunakan Facebook</string>
+    <string name="com_facebook_send_button_text">Hantar</string>
+    <string name="com_facebook_share_button_text">Kongsi</string>
+    <string name="com_facebook_tooltip_default">Baru! Anda yang mengawal - pilih maklumat yang anda ingin kongsi dengan aplikasi.</string>
+    <string name="messenger_send_button_text">Hantar</string>
+    <string name="action_achievements">Pencapaian</string>
+    <string name="action_disable">Nyahdayakan</string>
+    <string name="action_enable">Dayakan</string>
+    <string name="action_invite_friends">Jemput rakan</string>
+    <string name="action_leaderboards">Papan pendahulu</string>
+    <string name="action_login">Daftar masuk</string>
+    <string name="action_logout">%1$s (Daftar keluar)</string>
+    <string name="active_research">Penyelidikan aktif</string>
+    <string name="app_disabled_message">Aplikasi ini dinyahdayakan dan tidak boleh lagi digunakan.</string>
+    <string name="app_disabled_title">Aplikasi dinyahdayakan</string>
+    <string name="battery_not_drained_text">Telefon perlu bersambung ke pengecas dan dicas sepenuhnya (100%)</string>
+    <string name="battery_not_drained_title">Bateri tidak akan habis</string>
+    <string name="connect_to_wifi">Telefon perlu bersambung ke rangkaian Wi-Fi</string>
+    <string name="contributed_time">Masa disumbangkan</string>
+    <string name="contribution_interval_time">Tempoh sumbangan</string>
+    <string name="data_usage">Penggunaan data</string>
+    <string name="data_usage_text">"Peranti anda perlu disambungkan ke rangkaian Wi-Fi.
+Jika anda menggunakan sambungan Wi-Fi bermeter atau berbayar, anda mungkin dicaj untuk penggunaan data.
+
+Untuk mendapatkan maklumat selanjutnya, rujuk pembekal khidmat Internet anda."</string>
+    <string name="disabled">Dinyahdayakan</string>
+    <string name="disclaimer_data_charges">Penggunaan perkhidmatan ini mungkin tertakluk pada caj trafik data, bergantung pada langgangan telefon mudah alih anda dengan pembekal khidmat anda.</string>
+    <string name="disclaimer_privacy_consent">Saya bersetuju dengan &lt;a href=\"http://www.sonymobile.com/privacy\">Dasar Privasi&lt;/a> Sony Mobile</string>
+    <string name="disclaimer_terms">&lt;a href=http://www.sonymobile.com/terms-of-use-applications>Terma Penggunaan&lt;/a> terpakai kepada penggunaan aplikasi anda.</string>
+    <string name="disclaimer_terms_and_privacy_consent">Saya bersetuju dengan &lt;a href=http://www.sonymobile.com/terms-of-use-applications>Terma Penggunaan&lt;/a> dan &lt;a href=\"http://www.sonymobile.com/privacy\">Dasar Privasi&lt;/a> Sony Mobile</string>
+    <string name="disclaimer_terms_consent">Saya bersetuju dengan &lt;a href=\"http://www.sonymobile.com/terms-of-use-applications\">Terma Penggunaan&lt;/a> Sony Mobile</string>
+    <string name="finish">Selesai</string>
+    <string name="helping_out">Membantu</string>
+    <string name="label_accept">Terima</string>
+    <string name="label_agree">Setuju</string>
+    <string name="label_decline">Tolak</string>
+    <string name="label_disagree">Tidak setuju</string>
+    <string name="label_open_source_label">Lesen sumber terbuka</string>
+    <string name="label_terms_and_conditions">Terma dan Syarat</string>
+    <string name="legal">Perundangan</string>
+    <string name="more_info">Maklumat selanjutnya</string>
+    <string name="new_indicators">Penunjuk baharu</string>
+    <string name="new_power_button">Butang kuasa baharu</string>
+    <string name="no_cost_mobile_data_text">Telefon perlu bersambung ke rangkaian Wi-Fi.</string>
+    <string name="no_cost_mobile_data_title">Data mudah alih adalah percuma</string>
+    <string name="no_opencl">Peranti ini tidak menyokong OpenCL. Pustaka ini penting untuk melaksanakan tugas. Anda ingin teruskan?</string>
+    <string name="notification_contribution_time">Terima kasih. Peranti ini telah menyumbang %1$s sepanjang 24j lepas.</string>
+    <string name="notification_service_executing_job">"Folding@Home sedang berjalan.
+Anda menyumbang kepada pen. sai."</string>
+    <string name="notification_service_finished_failed">Tidak semua syarat permulaan dipenuhi</string>
+    <string name="notification_service_finished_job_executed">Anda telah menyumbang kepada sains</string>
+    <string name="notification_service_not_executing">"Folding@Home tidak berjalan.
+Semua keadaan permulaan tidak dipenuhi."</string>
+    <string name="notification_service_turn_on">Hidupkan untuk terus menyumbang</string>
+    <string name="notifications">Pemberitahuan</string>
+    <string name="pause">Jeda</string>
+    <string name="paused">Dijeda</string>
+    <string name="people_helping">Orang ramai membantu</string>
+    <string name="powered_by">dikuasakan oleh</string>
+    <string name="private_date_safe_text">Aplikasi ini tidak mengakses data peribadi anda.</string>
+    <string name="private_date_safe_title">Data peribadi anda selamat.</string>
+    <string name="processing_time_text">Anda boleh menukar masa mula dalam tetapan.</string>
+    <string name="processing_time_title">Masa pen. ad. an. %1$s – %2$s</string>
+    <string name="read_more">Baca selanjutnya</string>
+    <string name="research_type">Jenis penyelidikan</string>
+    <string name="research_type_unavailable">Tidak boleh digunakan</string>
+    <string name="settings">Tetapan</string>
+    <string name="settings_auto_wifi_msg">Dayakan Wi-Fi semasa menyumbang</string>
+    <string name="settings_display_notification">Hantar pemberitahuan pada akhir pengiraan</string>
+    <string name="setup_guide">Panduan persediaan</string>
+    <string name="share">Kongsi</string>
+    <string name="share_facebook_contribution">Kongsi di Facebook</string>
+    <string name="share_facebook_error">Tidak dapat dikongsikan di Facebook</string>
+    <string name="share_facebook_success">Berjaya dikongsikan di Facebook</string>
+    <string name="share_object_message">Saya salah seorang %1$d yang membantu dan saya telah menyumbang dengan %2$s masa pengiraan!</string>
+    <string name="sign_in_google_game_service">Dftr msk Pkh. Pma. Google Play™</string>
+    <string name="skip">Langkau</string>
+    <string name="stand_by">Bersedia</string>
+    <string name="start_contribute">Masa bermula</string>
+    <string name="start_contribute_text">Tetapkan masa mula untuk pengiraan</string>
+    <string name="time_string_days">%1$dh %2$dj %3$dm</string>
+    <string name="time_string_hours">%1$dj %2$dm</string>
+    <string name="time_string_weeks">%1$dm %2$dh %3$dj</string>
+    <string name="title_disclaimer">Maklumat penggunaan</string>
+    <string name="toast_achievements_disabled">Daftar masuk untuk melihat pencapaian!</string>
+    <string name="toast_leaderboards_disabled">Daftar masuk untuk melihat papan markah!</string>
+    <string name="toast_logout">Mengelog keluar</string>
+    <string name="toast_network_unavailable">Rangkaian tidak tersedia</string>
+    <string name="turn_off">Matikan</string>
+    <string name="turn_on">Hidupkan</string>
+    <string name="view_more">Li. sel.</string>
+    <string name="waiting">Berkongsi…</string>
+    <string name="welcome">Selamat datang ke Folding@Home</string>
+    <string name="whats_new">Yang terbaru</string>
+    <string name="whats_new_conditions_indicator">Menunjukkan bahawa Wi-Fi bersedia, tetapi telefon perlu disambungkan ke pengecas dan bateri hendaklah dicas 100%.</string>
+    <string name="whats_new_contributed_time">Menunjukkan jumlah masa sumbangan anda.</string>
+    <string name="whats_new_contribution_indicators">Ikon dipertingkat untuk mengikuti status sumbangan anda dengan lebih mudah.</string>
+    <string name="whats_new_contribution_status">Kini anda boleh melihat status syarat yang diperlukan untuk menjalankan Folding@Home.</string>
+    <string name="whats_new_disable_indicator">Menunjukkan bahawa aplikasi dinyahdayakan.</string>
+    <string name="whats_new_enable_indicator">Menunjukkan bahawa semua keperluan sudah sedia.</string>
+    <string name="whats_new_login">Kini anda boleh melog masuk dan memuat naik sumbangan anda.</string>
+    <string name="whats_new_people_helping">Menunjukkan bilangan individu yang menggunakan Folding@Home.</string>
+    <string name="whats_new_power_button">Kini lebih mudah untuk mendayakan atau menyahdayakan aplikasi. Anda juga boleh melihat status semasa Folding@Home.</string>
+    <string name="whats_new_research_type">Menunjukkan penyelidikan yang anda sumbangkan.</string>
+    <string name="will_start_when">Keadaan permulaan</string>
+    <string name="wizard_step">Langkah %1$d/%2$d</string>
+    <string name="wizard_welcome_to_folding_subtitle">Ingin membantu mencari penawar Alzheimer, Parkinson dan kanser?</string>
+    <string name="wizard_welcome_to_folding_text">Telefon anda boleh menjalankan pengiraan saintifik semasa anda tidur dan membantu saintis Stanford University mencari penawar untuk banyak penyakit.</string>
+</resources>

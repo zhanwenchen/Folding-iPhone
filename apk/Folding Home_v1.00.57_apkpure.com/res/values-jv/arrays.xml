@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Dening ndhaptar kanggo Folding@Home, sampeyan mitulungi elmuwan ing Stanford University kanggo nemokake ubat kanggo lelara sing paling umum, dening nyumbang daya mroses ponsel nalika lagi ora dienggo.</item>
+        <item>Folding yaiku aktivitas protein ing awake dhewe. Riset babagan folding protein kudu ngemot akeh etungan nganti-nganti wong-wong saka Stanford University njaluk tulung wong liya kanggo numbang daya mroses ponsele kanggo nggawe etungan. Nalika sampeyan turu, Stanford University bakal ngirim masalah folding kanggo dietung ponsel sampeyan. Sawise bar ngetung, asile bakal dikirim maneh menyang Stanford.</item>
+        <item>"Sampeyan bisa nemu informasi salengkape babagan Folding@Home ing kaca beranda:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

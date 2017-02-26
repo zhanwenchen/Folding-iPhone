@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Ku cara ngadaptar jang Folding@Home, anjeun mantuan elmuwan Universitas Stanford dina usaha manggihan ubar jang rupa-rupa panyawat nu umum ku cara nyumbang kakuatan proses telepon anjeun upami anjeun teu make telepon.</item>
+        <item>Nilep ngacu kana aktipitas protein dina awak. Panalitian tilepan protein merluken loba itungan nu Stanford University penta batur jang nyumbang daya proses telepon maranehanana jang ngitung sababaraha angka. Waktos anjeun sare, Stanford University bakal ngirim polder nu ditilep jang diitung telepon anjeun. Saenggeus itungan rengse, hasilna bakal dikirim deui ka Stanford.</item>
+        <item>"Anjeun tiasa manggihan inpormasi salengkepna ngeunaan Folding@Home dina kaca utama:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

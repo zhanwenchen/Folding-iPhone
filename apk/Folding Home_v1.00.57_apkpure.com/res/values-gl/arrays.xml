@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Ao rexistrarse en Folding@Home, axudará os científicos da universidade de Stanford a atopar unha cura para moitas doenzas comúns porque permitirá que se utilice a potencia de procesamento do seu teléfono cando non estea a usalo.</item>
+        <item>«Folding» refírese ao pregamento das proteínas no corpo. A investigación neste eido require moitos cálculos, por iso a universidade de Stanford lle pida á xente que lles permita aproveitar a potencia de procesamento dos seus teléfonos para facer cálculos mentres non estean a usalos. Cando vostede estea a durmir, a universidade de Stanford enviará algún problema de pregamento para que o resolva o teléfono. Unha vez rematado o cálculo, os resultados envíanse de volta a Stanford.</item>
+        <item>"Máis información sobre Folding@Home na páxina de inicio:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

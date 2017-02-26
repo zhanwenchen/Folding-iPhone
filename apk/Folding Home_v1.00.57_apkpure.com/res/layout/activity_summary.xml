@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/toolbar" />
+    <ImageView android:gravity="center" android:padding="@dimen/padding_tiny" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/img_people_map" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <ScrollView android:scrollbarStyle="outsideOverlay" android:paddingBottom="@dimen/activity_padding_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/activity_padding_horizontal" android:paddingEnd="@dimen/activity_padding_horizontal">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/summary_info_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include android:id="@id/status_bar" layout="@layout/status_bar" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/summary_research_type_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_info_research" android:contentDescription="@string/research_type" android:layout_marginEnd="@dimen/activity_padding_horizontal" />
+                <LinearLayout android:orientation="vertical" android:id="@id/summary_research_type_internal_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:id="@id/title_research_type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/research_type" android:drawableEnd="@drawable/ic_arrow_down" android:textAlignment="viewStart" style="@style/text_title" />
+                    <TextView android:id="@id/summary_research_type" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" style="@style/text_subtitle" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:id="@id/summary_first_line" android:background="@color/sony_gray_line" android:layout_width="fill_parent" android:layout_height="@dimen/wizard_line_height" android:layout_marginTop="@dimen/margin_small" android:layout_marginBottom="@dimen/margin_small" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/summary_people_helping_out_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_info_people" android:contentDescription="@string/people_helping" android:layout_marginEnd="@dimen/activity_padding_horizontal" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/people_helping" android:textAlignment="viewStart" style="@style/text_title" />
+                    <TextView android:id="@id/summary_num_people_helping" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/text_subtitle" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:id="@id/summary_second_line" android:background="@color/sony_gray_line" android:layout_width="fill_parent" android:layout_height="@dimen/wizard_line_height" android:layout_marginTop="@dimen/margin_small" android:layout_marginBottom="@dimen/margin_small" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_info_time" android:contentDescription="@string/contributed_time" android:layout_marginEnd="@dimen/activity_padding_horizontal" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:id="@id/summary_time_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/contributed_time" android:textAlignment="viewStart" style="@style/text_title" />
+                    <TextView android:id="@id/summary_donated_time_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" style="@style/text_subtitle" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

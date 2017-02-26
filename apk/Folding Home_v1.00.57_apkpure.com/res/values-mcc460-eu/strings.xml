@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Telefonoak WLAN sare batera konektatuta egon behar du</string>
+    <string name="data_usage_text">"Gailuak WLAN sare batera konektatuta egon behar du.
+Mugatutako edo ordainpeko WLAN konexioa erabiltzen baduzu, baliteke datuen erabileragatik ordaindu behar izatea.
+
+Informazio gehiago lortzeko, galdetu Interneteko zerbitzu hornitzaileari."</string>
+    <string name="no_cost_mobile_data_text">Telefonoak WLAN sarera konektatuta egon behar du.</string>
+    <string name="settings_auto_wifi_msg">Gaitu WLAN konexioa laguntzak dirauen bitartean</string>
+    <string name="whats_new_conditions_indicator">WLANa prest dagoela baina telefonoak kargagailu batera konektatuta eta bateria guztiz kargatuta egon behar dutela adierazten du.</string>
+    <string name="wifi">WLANa</string>
+</resources>

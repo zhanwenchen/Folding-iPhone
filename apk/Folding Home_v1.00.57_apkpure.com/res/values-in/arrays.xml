@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Dengan mendaftar ke Folding@Home, Anda membantu ilmuwan Stanford University dalam upaya menemukan obat untuk berbagai penyakit umum, melalui donasi daya pemrosesan ponsel saat Anda tidak menggunakannya.</item>
+        <item>Pelipatan merujuk ke aktivitas protein di tubuh kita. Riset pelipatan protein membutuhkan banyak kalkulasi sehingga Stanford University meminta orang untuk mendonasikan daya pemrosesan yang tidak terpakai dari ponsel mereka untuk menyumbang sebagian jumlah tersebut. Saat Anda tidur, Stanford University akan mengirim masalah pelipatan ke ponsel Anda untuk diatasi. Saat kalkulasi selesai, hasilnya dikembalikan ke Stanford.</item>
+        <item>"Anda dapat menemukan informasi tentang Folding@Home di homepage:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

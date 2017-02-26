@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">يلزم توصيل الهاتف بشبكة WLAN</string>
+    <string name="data_usage_text">"يجب توصيل جهازك بشبكة WLAN.
+إذا كنت تستخدم اتصالاً محدودًا أو مدفوعًا بشبكة WLAN، فقد يتم فرض رسوم عليك لاستخدام البيانات.
+
+لمزيد من المعلومات، تحقق من مزوّد خدمة الإنترنت لديك."</string>
+    <string name="no_cost_mobile_data_text">يجب توصيل الهاتف بشبكة WLAN.</string>
+    <string name="settings_auto_wifi_msg">تفعيل اتصال WLAN أثناء المساهمة</string>
+    <string name="whats_new_conditions_indicator">الإشارة إلى أن WLAN متصل، ولكن يجب توصيل الهاتف بالشاحن ويجب أن تكون البطارية مشحونة بالكامل.</string>
+</resources>

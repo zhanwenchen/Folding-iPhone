@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Folding Home_v1.00.57_apkpure.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+- assets/passphrase
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '23'
+sharedLibrary: false
+unknownFiles:
+  com/robotium/solo/RobotiumWeb.js: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.2
+versionInfo:
+  versionCode: '10057'
+  versionName: 1.00.57

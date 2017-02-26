@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Telefon se potřebuje připojit k síti WLAN</string>
+    <string name="data_usage_text">"Zařízení musí být připojeno k síti WLAN.
+Používáte-li časově závislé nebo placené připojení WLAN, mohou vám být účtovány poplatky za využití dat.
+
+Další informace získáte od poskytovatele internetových služeb."</string>
+    <string name="no_cost_mobile_data_text">Telefon musí být připojen k síti WLAN.</string>
+    <string name="settings_auto_wifi_msg">Povolit během výpočtu síť WLAN</string>
+    <string name="whats_new_conditions_indicator">Označuje, že připojení WLAN je připraveno, ale telefon musí být připojen k nabíječce a baterie musí být nabita na 100 %.</string>
+</resources>

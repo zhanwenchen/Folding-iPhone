@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>註冊Folding@Home，你即可幫助史丹福大學的科學家尋找多種最常見疾病的治療方法，而你只需在手機閒置時貢獻手機的運算效能。</item>
+        <item>縮放是蛋白質在人體內的活動。蛋白份子縮放的研究要求大量運算，史丹福大學呼籲大家捐出閒置手機資源協助處理部分運算。當您睡覺時，史丹福大學會將一個縮放問題傳送至你的手機以供解決。一個運算完成後，結果即被傳送回史丹福大學。</item>
+        <item>"你可登入Folding@Home主頁瀏覽更多資料：
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

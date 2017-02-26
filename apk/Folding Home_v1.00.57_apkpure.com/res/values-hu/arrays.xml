@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>A Folding@Home programra regisztrálva Ön is segíthet a Stanford Egyetem tudósainak számos gyakori betegség ellenszerének felkutatásában azzal, hogy felkínálja telefonja feldolgozókapacitását, amikor Ön nem használja azt.</item>
+        <item>A „Folding” (feltekeredés) szó a testünkben lezajló fehérjetevékenységekre utal. A fehérjefeltekeredés kutatása olyan sok számítást igényel, hogy a Stanford Egyetem az emberek segítségét kéri, hogy telefonjaik nem használt feldolgozókapacitásának felajánlásával segítsenek elvégezni néhány számítást. Amikor Ön alszik, a Stanford Egyetem egy megoldandó feltekeredési problémát fog elküldeni telefonjára. A számítások végeztével a telefon visszaküldi az adatokat az egyetemnek.</item>
+        <item>"A Folding@Home programról itt talál bővebb információt:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>"Registrandosi a Folding@Home è possibile sostenere gli scienziati dell'Università di Stanford nella ricerca delle cure per numerose malattie comuni. Il contributo richiesto è la potenza del processore del telefono, quando questo non viene utilizzato dall'utente."</item>
+        <item>"Il ripiegamento (\"folding\") delle proteine è un'attività che avviene nel nostro organismo. La ricerca dell'università di Stanford su questo fenomeno coinvolge talmente tanti calcoli, che per sostenerla viene richiesta l'energia di processori inutilizzati. Mentre l'utente dorme, dall'Università di Stanford viene inviato un calcolo sul ripiegamento al telefono: una volta svolta l'operazione, il risultato viene reinviato a Stanford."</item>
+        <item>"Ulteriori informazioni su Folding@Home sono disponibili nella homepage:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

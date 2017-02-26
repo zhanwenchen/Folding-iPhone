@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Puhelimen on oltava yhteydessä langattomaan lähiverkkoon.</string>
+    <string name="data_usage_text">"Laite on kytkettävä langattomaan lähiverkkoon.
+Siirrettyjen tietojen määrään perustuvaa langatonta lähiverkkoyhteyttä käytettäessä tiedonsiirrosta voidaan periä maksu.
+
+Lisätietoja saat Internet-palveluntarjoajalta."</string>
+    <string name="no_cost_mobile_data_text">Puhelimen on oltava yhteydessä langattomaan lähiverkkoon.</string>
+    <string name="settings_auto_wifi_msg">Ota WLAN käyttöön osallistuttaessa</string>
+    <string name="whats_new_conditions_indicator">Ilmoittaa, että langaton lähiverkko on valmis, mutta puhelin on liitettävä laturiin ja akun on oltava täysin ladattu.</string>
+</resources>

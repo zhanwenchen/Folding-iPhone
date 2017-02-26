@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Kui liitute projektiga Folding@Home, aitate Stanfordi ülikooli teadlastel otsida abi mitmesuguste levinud haiguste vastu. Selleks saate teadlastele annetada oma telefoni töötlemisvõimsuse, kui te seda ise ei kasuta.</item>
+        <item>Voltimine viitab meie kehas toimuvale proteiini töötlemisele. Proteiini voltimise uurimiseks on vaja teha nii palju arvutusi, et Stanfordi ülikool on palunud inimestel andmete töötlemiseks annetada oma mobiiltelefonide kasutamata töötlemisvõimsust. Samal ajal, kui teie magate, saadavad Stanfordi ülikooli teadlased teie telefoni lahendamiseks voltimisega seotud probleemi. Kui arvutused on valmis, saadetakse tulemused tagasi Stanfordi.</item>
+        <item>"Lisateavet projekti Folding@Home kohta leiate veebilehelt
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

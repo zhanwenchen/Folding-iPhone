@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">הטלפון צריך להיות מחובר לרשת WLAN</string>
+    <string name="data_usage_text">"תוכל לחבר את ההתקן שלך לרשת WLAN.
+אם אתה משתמש בחיבור מדוד או בתשלום לרשת WLAN, ייתכן שתידרש לשלם בעבור השימוש בנתונים.
+
+לקבלת מידע נוסף, בדוק עם ספק שירותי האינטרנט שלך."</string>
+    <string name="no_cost_mobile_data_text">הטלפון חייב להיות מחובר לרשת WLAN.</string>
+    <string name="settings_auto_wifi_msg">הפעל WLAN במהלך התרומה</string>
+    <string name="whats_new_conditions_indicator">מציין כי יש רשת WLAN מוכנה, אך יש לחבר את הטלפון למטען ולהגיע לקיבולת טעינה של 100% בסוללה.</string>
+</resources>

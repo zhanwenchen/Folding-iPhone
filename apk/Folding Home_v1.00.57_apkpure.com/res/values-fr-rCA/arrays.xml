@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>"En vous inscrivant à Folding@Home et en offrant la puissance de traitement de votre téléphone lorsque vous ne l'utilisez pas, vous aidez les scientifiques de l'Université de Stanford à chercher un traitement à de nombreuses maladies communes."</item>
+        <item>"Le terme « folding » (repliement) fait référence à l'activité protéique de notre corps. La recherche en matière de repliement des protéines nécessite tellement de calculs que l'Université de Stanford a eu l'idée de demander à la population d'offrir la puissance de calcul non utilisée de leur téléphone pour dévorer des nombres. Pendant votre sommeil, l'Université de Stanford enverra à votre téléphone un problème de repliement à solutionner. À la fin du calcul, les résultats sont retournés à l'Université de Stanford."</item>
+        <item>"Plus d'information est disponible à propos de Folding@Home sur la page d'accueil :
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

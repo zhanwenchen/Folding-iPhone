@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Al registrarse en Folding@Home, ayuda a los científicos de la Universidad de Stanford en su búsqueda de la cura de muchas de las enfermedades más comunes, mediante la donación de la capacidad de procesamiento que su móvil no use.</item>
+        <item>El término \"folding\" (plegamiento) alude a las actividades que las proteínas realizan en nuestro cuerpo. La investigación sobre el plegamiento de proteínas requiere tal cantidad de cálculos que la Universidad de Stanford pide a los usuarios que donen la capacidad de procesamiento que sus móviles no usen para realizar algunos cálculos. De esta forma, mientras duerma, la Universidad de Stanford enviará un problema sobre plegamiento a su móvil para que lo resuelva. Al terminar los cálculos, los resultados se envían de vuelta a Stanford.</item>
+        <item>"Puede encontrar más información sobre Folding@Home en la página de inicio:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

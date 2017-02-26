@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Ilmoittautumalla Folding@Home-hankkeeseen autat Stanfordin yliopiston tutkijoita löytämään parannuskeinon moniin yleisimpiin sairauksiin lahjoittamalla puhelimesi laskentatehoa, kun et käytä sitä itse.</item>
+        <item>Folding (laskostuminen) viittaa proteiinien toimintaan kehossamme.Proteiinien laskostumisen tutkimus vaatii niin paljon laskelmia, että Stanfordin yliopisto pyytää ihmisiä lahjoittamaan puhelimien käyttämätöntä laskentatehoa joidenkin laskutoimitusten suorittamista varten. Nukkuessasi Stanfordin yliopisto lähettää yhden laskostumisongelman puhelimesi ratkaistavaksi. Kun laskelmat on tehty, tulokset lähetetään takaisin Stanfordiin.</item>
+        <item>"Lisää Folding@Home-hanketta koskevaa tietoa löydät hankkeen kotisivuilta:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

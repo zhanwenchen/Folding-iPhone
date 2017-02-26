@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_achievements">Lorpenak</string>
+    <string name="action_disable">Desgaitu</string>
+    <string name="action_enable">Gaitu</string>
+    <string name="action_invite_friends">Gonbidatu lagunak</string>
+    <string name="action_leaderboards">Emaitza taulak</string>
+    <string name="action_login">Hasi saioa</string>
+    <string name="action_logout">%1$s (Amaitu saioa)</string>
+    <string name="active_research">Bilaketa aktiboa</string>
+    <string name="app_disabled_message">Aplikazio hau desgaituta dago eta ezin daiteke gehiago erabili.</string>
+    <string name="app_disabled_title">Aplikazioa desgaituta</string>
+    <string name="battery_not_drained_text">Telefonoak kargagailu batekin konektatuta eta erabat kargatuta (% 100) egon behar du</string>
+    <string name="battery_not_drained_title">Bateria ez da agortuko</string>
+    <string name="connect_to_wifi">Telefonoak Wi-Fi sare batera konektatuta egon behar du</string>
+    <string name="contributed_time">Lagundutako denbora</string>
+    <string name="contribution_interval_time">Laguntzaren iraupena</string>
+    <string name="data_usage">Datuen erabilera</string>
+    <string name="data_usage_text">"Gailuak Wi-Fi sare batera konektatuta egon behar du.
+Mugatutako edo ordainpeko Wi-Fi konexioa erabiltzen baduzu, baliteke datuen erabileragatik ordaindu behar izatea.
+
+Informazio gehiago lortzeko, galdetu Interneteko zerbitzu hornitzaileari."</string>
+    <string name="disabled">Desgaituta</string>
+    <string name="disclaimer_data_charges">Zerbitzu honi ematen diozun erabilerari datu trafikoaren tarifak aplika dakizkioke, zerbitzu hornitzailearekin duzun telefono mugikorraren harpidetzaren arabera.</string>
+    <string name="disclaimer_privacy_consent">Sony Mobile &lt;a href=\"http://www.sonymobile.com/privacy\">Pribatutasun gidalerroak&lt;/a> onartzen ditut</string>
+    <string name="disclaimer_terms">&lt;a href=http://www.sonymobile.com/terms-of-use-applications>Erabiltzeko baldintzak&lt;/a> aplikatzen zaizkio aplikazioari ematen diozun erabilerari.</string>
+    <string name="disclaimer_terms_and_privacy_consent">Sony Mobile &lt;a href=http://www.sonymobile.com/terms-of-use-applications>Erabiltzeko baldintzak&lt;/a> eta &lt;a href=\"http://www.sonymobile.com/privacy\">Pribatutasun gidalerroak&lt;/a> onartzen ditut</string>
+    <string name="disclaimer_terms_consent">Sony Mobile &lt;a href=\"http://www.sonymobile.com/terms-of-use-applications\">Erabiltzeko baldintzak&lt;/a> onartzen ditut</string>
+    <string name="finish">Amaitu</string>
+    <string name="helping_out">Datuak kalkulatzen</string>
+    <string name="label_accept">Onartu</string>
+    <string name="label_agree">Onetsi</string>
+    <string name="label_decline">Baztertu</string>
+    <string name="label_disagree">Ezetsi</string>
+    <string name="label_open_source_label">Iturburu irekiko lizentziak</string>
+    <string name="label_terms_and_conditions">Zehaztapenak eta baldintzak</string>
+    <string name="legal">Lege oharra</string>
+    <string name="more_info">Informazio gehiago</string>
+    <string name="new_indicators">Adierazle berriak</string>
+    <string name="new_power_button">Pizteko eta itzaltzeko botoi berria</string>
+    <string name="no_cost_mobile_data_text">Telefonoak Wi-Fi sarera konektatuta egon behar du.</string>
+    <string name="no_cost_mobile_data_title">Datu mugikorreng. kosturik ez</string>
+    <string name="no_opencl">Gailu honek ez du OpenCL onartzen. Lanak exekutatzeko, liburutegi hori nahitaezkoa da. Jarraitu nahi duzu?</string>
+    <string name="notification_contribution_time">Eskerrik asko. Gailu honek ekarpen hau egin du azken 24 orduetan: %1$s ,</string>
+    <string name="notification_service_executing_job">"Folding@Home exekutatzen ari da.
+Ikerketa zientifikoari laguntzen ari zara."</string>
+    <string name="notification_service_finished_failed">Ez dira abiarazte baldintza guztiak bete.</string>
+    <string name="notification_service_finished_job_executed">Zientziari lagundu diozu</string>
+    <string name="notification_service_not_executing">"Folding@Home ez da exekutatzen ari.
+Ez dira abiarazte baldintza guztiak bete."</string>
+    <string name="notification_service_turn_on">Ekarpena egiten jarraitzeko, aktibatu</string>
+    <string name="notifications">Jakinarazpenak</string>
+    <string name="pause">Pausatu</string>
+    <string name="paused">Pausatuta</string>
+    <string name="people_helping">Laguntzaile kopurua</string>
+    <string name="powered_by">honen teknologiarekin:</string>
+    <string name="private_date_safe_text">Aplikazio honek ezin ditzake zure datu pribatuak atzitu.</string>
+    <string name="private_date_safe_title">Zure datu pribatuak salbu daude.</string>
+    <string name="processing_time_text">Hasiera ordua ezarpenetan alda dezakezu.</string>
+    <string name="processing_time_title">Kalkuluen ordu tartea: %1$s -%2$s</string>
+    <string name="read_more">Irakurri gehiago</string>
+    <string name="research_type">Ikerketa mota</string>
+    <string name="research_type_unavailable">Ez erabilgarri</string>
+    <string name="settings">Ezarpenak</string>
+    <string name="settings_auto_wifi_msg">Gaitu Wi-Fi konexioa laguntzak dirauen bitartean</string>
+    <string name="settings_display_notification">Bidali jakinarazpenak kalkuluak amaitu ondoren</string>
+    <string name="setup_guide">Konfigurazio gida</string>
+    <string name="share">Partekatu</string>
+    <string name="share_facebook_contribution">Partekatu Facebook-en</string>
+    <string name="share_facebook_error">Ezin izan da Facebook-en partekatu</string>
+    <string name="share_facebook_success">Behar bezala partekatu da Facebook-en</string>
+    <string name="share_object_message">%1$d laguntzaileetako bat naiz eta kalkulu denbora honekin lagundu dut: %2$s!</string>
+    <string name="sign_in_google_game_service">Hasi saioa Google Play™ jokoetan</string>
+    <string name="skip">Saltatu</string>
+    <string name="stand_by">Egonean</string>
+    <string name="start_contribute">Abiarazte ordua</string>
+    <string name="start_contribute_text">Ezarri kalkuluak egiteko hasiera ordua</string>
+    <string name="time_string_days">%1$deg %2$d h %3$d min</string>
+    <string name="time_string_hours">%1$dh %2$d min</string>
+    <string name="time_string_weeks">%1$das %2$deg %3$dh</string>
+    <string name="title_disclaimer">Erabilera informazioa</string>
+    <string name="toast_achievements_disabled">Hasi saioa lorpenak ikusteko!</string>
+    <string name="toast_leaderboards_disabled">Hasi saioa sailkapenak ikusteko!</string>
+    <string name="toast_logout">Amaitu da saioa</string>
+    <string name="toast_network_unavailable">Sarea ez erabilgarri</string>
+    <string name="turn_off">Desaktibatu</string>
+    <string name="turn_on">Aktibatu</string>
+    <string name="view_more">Ikusi gehiago</string>
+    <string name="waiting">Partekatzen…</string>
+    <string name="welcome">Ongi etorri Folding@Home aplikaziora</string>
+    <string name="whats_new">Zer berri</string>
+    <string name="whats_new_conditions_indicator">Wi-Fia prest dagoela baina telefonoak kargagailu batera konektatuta eta bateria guztiz kargatuta egon behar dutela adierazten du.</string>
+    <string name="whats_new_contributed_time">Zure ekarpenen guztizko iraupena adierazten du.</string>
+    <string name="whats_new_contribution_indicators">Ikonoak hobetu dira, zure ekarpenen egoeraren jarraipena errazteko.</string>
+    <string name="whats_new_contribution_status">Orain Folding@Home exekutatzeko behar diren baldintzak ikusiko dituzu .</string>
+    <string name="whats_new_disable_indicator">Aplikazioa desgaituta dagoela adierazten du.</string>
+    <string name="whats_new_enable_indicator">Baldintza guztiak betetzen direla adierazten du.</string>
+    <string name="whats_new_login">Orain saioa hasi eta ekarpenak karga ditzakezu.</string>
+    <string name="whats_new_people_helping">Folding@Home aplikazioa erabiltzen ari den pertsona kopurua adierazten du.</string>
+    <string name="whats_new_power_button">Orain errazagoa da aplikazioa gaitzea edo desgaitzea. Horrez gain, Folding@Home aplikazioaren uneko egoera ikus dezakezu.</string>
+    <string name="whats_new_research_type">Ekarpena zein ikerketari egiten diozun adierazten du.</string>
+    <string name="will_start_when">Abiarazte baldintzak</string>
+    <string name="wizard_step">%1$d/%2$d urratsa</string>
+    <string name="wizard_welcome_to_folding_subtitle">Alzheimerraren, Parkinsonaren eta minbiziaren sendabideak aurkitzen lagundu nahi?</string>
+    <string name="wizard_welcome_to_folding_text">Lo zaudenean, telefonoak kalkulu zientifikoak egin eta Stanfordeko Unibertsitateko zientzialariei gaixotasun askotarako sendabidea aurkitzen lagun diezaieke.</string>
+    <string name="wifi">Wi-Fia</string>
+</resources>

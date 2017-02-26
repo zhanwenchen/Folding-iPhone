@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">ಫೋನ್ WLAN ನೆಟ್‌ವರ್ಕ್ ಒಂದಕ್ಕೆ ಸಂಪರ್ಕಿತವಾಗಿರುವ ಅಗತ್ಯವಿದೆ</string>
+    <string name="data_usage_text">"ನಿಮ್ಮ ಸಾಧನವು WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಿರಬೇಕಾಗುತ್ತದೆ.
+ನೀವು ಮಾಪನವುಳ್ಳ ಅಥವಾ ಪಾವತಿಸುವ WLAN ಸಂಪರ್ಕವನ್ನು ಬಳಸಿದರೆ, ಡೇಟಾ ಬಳಕೆಗೆ ನಿಮಗೆ ಶುಲ್ಕ ವಿಧಿಸಬಹುದಾಗಿದೆ.
+
+ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸರ್ವಿಸ್ ಪ್ರೊವೈಡರ್ ಜತೆಗೆ ಪರೀಕ್ಷಿಸಿಕೊಳ್ಳಿ."</string>
+    <string name="no_cost_mobile_data_text">ಫೋನ್ WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿತವಾಗಿರತಕ್ಕದ್ದು.</string>
+    <string name="settings_auto_wifi_msg">ಕೊಡುಗೆ ಸಮಯದಲ್ಲಿ WLAN ಸಕ್ರಿಯಗೊಳಿಸು</string>
+    <string name="whats_new_conditions_indicator">WLAN ಸಿದ್ಧವಾಗಿದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆದರೆ ಫೋನ್ ಅನ್ನು ಚಾರ್ಜರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿರಬೇಕಾಗುತ್ತದೆ ಮತ್ತು ಬ್ಯಾಟರಿಯು 100% ಚಾರ್ಜ್ ಆಗಿರಬೇಕಾಗುತ್ತದೆ.</string>
+</resources>

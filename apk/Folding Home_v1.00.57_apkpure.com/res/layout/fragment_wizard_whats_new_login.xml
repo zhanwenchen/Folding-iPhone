@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarStyle="outsideInset" android:id="@id/fragment_wizard_welcome" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/activity_padding_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/activity_padding_horizontal" android:paddingEnd="@dimen/activity_padding_horizontal">
+        <TextView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_medium" android:text="@string/whats_new" android:fontFamily="sans-seriff-light" android:textAlignment="viewStart" style="@android:style/TextAppearance.DeviceDefault.Large" />
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:src="@drawable/img_step6" android:contentDescription="@string/whats_new_power_button" />
+        <TextView android:textSize="@dimen/wizard_font_size_small" android:textColor="@color/sony_gray_text" android:autoLink="web" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:text="@string/whats_new_login" android:fontFamily="sans-seriff" android:textAlignment="center" />
+        <Button android:layout_gravity="center" android:id="@id/sign_in_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sign_in_google_game_service" android:drawablePadding="@dimen/padding_x_small" android:onClick="onClick" android:textAllCaps="false" android:drawableStart="@drawable/ic_button_sign_in" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Folding@Home-da qeydiyyatdan keçərək, özünüz istifadə etmədikdə telefonunuzun hesablama gücündən istifadə imkanı verməklə Stanford Universitetinin alimlərinə yayılmış bir çox xəstəliklərə çarə tapmaqda kömək edə bilərsiniz.</item>
+        <item>Toplanma (folding) bədənimizdə zülal fəaliyyətinə deyilir. Zülal toplanması araşdırması üçün çox hesablama lazımdır və Stanford Universiteti insanlardan telefonlarını istifadə etmədikləri zaman onun hesablama gücündən istifadə etməyə icazə vermələrini xahiş edir. Siz yatarkən Stanford Universiteti telefonunuza həll üçün toplama məsələsi göndərəcək. Hesablama nəticələri Stanford-a qaytarılacaq.</item>
+        <item>"Folding@Home barədə ətraflı məlumatı baş səhifədə oxuya bilərsiniz:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

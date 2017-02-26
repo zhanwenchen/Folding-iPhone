@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Reģistrējoties projektā Folding@Home, jūs ziedojat sava tālruņa apstrādes jaudu, kad pats to neizmantojat, un palīdzat Stenfordas Universitātes zinātniekiem atrast līdzekļus daudzu mūsdienās izplatītu slimību ārstēšanai.</item>
+        <item>Folding (latviski — satīšanās) attiecas attiecas uz proteīnu uzvedību mūsu ķermenī. Proteīnu satīšanās pētījuma veikšanai ir nepieciešams tik daudz aprēķinu, ka Stenfordas Universitāte lūdz cilvēkiem ziedot savu tālruņu apstrādes jaudu, lai tiktu galā ar dažiem no cipariem. Kad gulēsit, Stenfordas Universitāte nosūtīs uz jūsu tālruni kādu satīšanās problēmu, kas tam būs jāatrisina. Kad aprēķini būs pabeigti, rezultāti tiks nosūtīti atpakaļ uz Stenfordu.</item>
+        <item>"Plašāku informāciju par projektu Folding@Home varat atrast mājaslapā:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

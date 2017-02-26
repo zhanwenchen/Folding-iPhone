@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Telefon perlu bersambung ke rangkaian WLAN</string>
+    <string name="data_usage_text">"Peranti anda perlu disambungkan ke rangkaian WLAN.
+Jika anda menggunakan sambungan WLAN bermeter atau berbayar, anda mungkin dicaj untuk penggunaan data.
+
+Untuk mendapatkan maklumat selanjutnya, rujuk pembekal khidmat Internet anda."</string>
+    <string name="no_cost_mobile_data_text">Telefon perlu bersambung ke rangkaian WLAN.</string>
+    <string name="settings_auto_wifi_msg">Dayakan WLAN semasa menyumbang</string>
+    <string name="whats_new_conditions_indicator">Menunjukkan bahawa WLAN bersedia, tetapi telefon perlu disambungkan ke pengecas dan bateri hendaklah dicas 100%.</string>
+</resources>

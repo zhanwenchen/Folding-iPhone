@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Телефонът трябва да е свързан с WLAN мрежа</string>
+    <string name="data_usage_text">"Вашето устройство трябва да е свързано към WLAN мрежа.
+Ако използвате WLAN връзка, която е платена или с измерено потребление, може да платите такса за използването на данните.
+
+За повече информация проверете при своя доставчик на интернет услуги."</string>
+    <string name="no_cost_mobile_data_text">Телефонът трябва да е свързан с WLAN мрежа.</string>
+    <string name="settings_auto_wifi_msg">Включване на WLAN по време на приноса</string>
+    <string name="whats_new_conditions_indicator">Показва, че WLAN е в готовност, но телефонът трябва да се включи в зарядно устройство, а батерията трябва да е заредена до 100%.</string>
+</resources>

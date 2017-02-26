@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Með því að skrá þig í Folding@Home hjálparðu vísindamönnum við Stanford-háskóla í leit þeirra að lækningu við algengum sjúkdómum með því að leggja til vinnslugetu símans þegar þú ert ekki að nota hann.</item>
+        <item>Með fellingum er átt við próteinmyndun í líkamanum. Rannsóknir á próteinfellingum krefjast svo margra útreikninga að Stanford-háskóli biður fólk um að leggja fram ónotaðan vinnslukraft símanna sinna til að vinna úr tölum. Stanford sendir dæmi sem síminn þinn leysir á meðan þú sefur. Að útreikningnum loknum eru niðurstöðurnar sendar til Stanford.</item>
+        <item>"Þú færð frekari upplýsingar um Folding@Home á heimasíðunni:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

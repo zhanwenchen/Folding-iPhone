@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">O telemóvel tem de estar ligado a uma rede WLAN</string>
+    <string name="data_usage_text">"O dispositivo tem de estar ligado a uma rede WLAN.
+Se utilizar uma ligação WLAN com tráfego limitado ou paga, pode ser-lhe cobrado um valor pela utilização de dados.
+
+Para obter mais informações, consulte o seu Fornecedor de Serviços Internet."</string>
+    <string name="no_cost_mobile_data_text">Deve ligar o telemóvel a uma rede WLAN.</string>
+    <string name="settings_auto_wifi_msg">Ativar WLAN durante a contribuição</string>
+    <string name="whats_new_conditions_indicator">Indica que o WLAN está pronto, mas é necessário ligar o telemóvel a um carregador e a bateria tem de estar 100% carregada.</string>
+    <string name="wifi">WLAN</string>
+</resources>

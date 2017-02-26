@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">O teléfono ten que conectarse a unha rede WLAN</string>
+    <string name="data_usage_text">"O dispositivo ten que estar conectado a unha rede WLAN.
+No caso de usar unha conexión WLAN limitada ou de pago, talvez se apliquen cargos polo uso de datos.
+
+Se precisa máis información, consúlteo co seu fornecedor de servizos da Internet."</string>
+    <string name="no_cost_mobile_data_text">O teléfono ten que conectarse a unha rede WLAN.</string>
+    <string name="settings_auto_wifi_msg">Activar WLAN durante a contribución</string>
+    <string name="whats_new_conditions_indicator">Indica que a WLAN está lista, pero que o teléfono tense que conectar a un cargador e a batería estar cargada por completo.</string>
+</resources>

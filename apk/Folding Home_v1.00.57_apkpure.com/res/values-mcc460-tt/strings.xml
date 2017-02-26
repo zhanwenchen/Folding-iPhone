@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Телефонны WLAN челтәренә тоташтыру сорала</string>
+    <string name="data_usage_text">"Җайланмагыз WLAN челтәренә тоташкан булырга тиеш.
+Исәпләнүче яки түләнүче WLAN тоташмасын куллансагыз, мәгълуматны куллану өчен түләү алынырга мөмикн.
+
+Өстәмә мәгълүматны Интернет хезмәтен тәэмин итүчесеннән алыгыз."</string>
+    <string name="no_cost_mobile_data_text">Телефон WLAN челтәренә тоташкан булырга тиеш.</string>
+    <string name="settings_auto_wifi_msg">Иганә итү вакытында WLAN эшләтеп җибәрү</string>
+    <string name="whats_new_conditions_indicator">"WLAN'ның әзер булуын күрсәтә, ләкин телефон коруга тоташкан һәм батарейка 100% кадәр корылган булырга тиеш."</string>
+</resources>

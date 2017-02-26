@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Το τηλέφωνο πρέπει να είναι συνδεδεμένο σε δίκτυο WLAN</string>
+    <string name="data_usage_text">"Η συσκευή σας πρέπει να είναι συνδεδεμένη σε ένα δίκτυο WLAN.
+Αν χρησιμοποιείτε σύνδεση WLAN με μέτρηση ή επί πληρωμή, ενδέχεται να χρεωθείτε για τη χρήση δεδομένων.
+
+Για περισσότερες πληροφορίες, απευθυνθείτε στον πάροχος υπηρεσιών Internet."</string>
+    <string name="no_cost_mobile_data_text">Το τηλέφωνο θα πρέπει να είναι συνδεδεμένο σε δίκτυο WLAN.</string>
+    <string name="settings_auto_wifi_msg">Ενεργοποίηση του WLAN κατά τη συνεισφορά</string>
+    <string name="whats_new_conditions_indicator">Υποδεικνύει ότι το WLAN είναι έτοιμο, αλλά το τηλέφωνο θα πρέπει να είναι συνδεδεμένο σε φορτιστή και η μπαταρία να είναι 100% φορτισμένη.</string>
+</resources>

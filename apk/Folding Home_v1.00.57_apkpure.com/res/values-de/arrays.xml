@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Mit Ihrer Anmeldung bei Folding@Home helfen Sie den Forschern der Stanford University bei ihrer Suche nach Heilmitteln für viele der häufigsten Erkrankungen. Sie spenden dazu Rechenleistung Ihres Telefons, wenn Sie sie nicht selbst benötigen.</item>
+        <item>Falten (engl. Folding) bezieht sich auf Proteinaktivitäten im Körper. Die Forschung zur Proteinfaltung erfordert so viele Berechnungen, dass die Stanford University andere Menschen darum bittet, ungenutzte Rechenleistung ihres Telefons zu spenden, um diese Aufgabe zu bewältigen. Während Sie schlafen, sendet die Stanford University ein Faltungsproblem an ihr Telefon, damit es dort gelöst wird. Nachdem die Berechnung abgeschlossen ist, werden die Ergebnisse zurück nach Stanford gesendet.</item>
+        <item>"Weitere Informationen über Folding@Home finden Sie auf der Homepage:
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

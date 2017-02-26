@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>Užsiregistruodami „Folding@Home“ ir paaukodami savo telefono apdorojimo galimybes, kai jomis nesinaudojate patys, padedate Stanfordo universiteto mokslininkams ieškoti gydymo priemonių daugeliui paplitusių ligų.</item>
+        <item>Lankstymo (angl. „folding“) sąvoka apibūdina baltymų veiklą mūsų kūnuose. Baltymų lankstymo tyrimams reikalingi didžiuliai skaičiavimo ištekliai, todėl Stanfordo universitetas prašo žmonių paaukoti dalį savo telefonų duomenų apdorojimo išteklių. Jums miegant Stanfordo universitetas atsiųs į jūsų telefoną lankstymo užduotį, kurią reikia išspręsti. Baigus skaičiavimus, rezultatai išsiunčiami atgal į Stanfordą.</item>
+        <item>"Daugiau informacijos apie „Folding@Home“ rasite pagrindiniame puslapyje: 
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

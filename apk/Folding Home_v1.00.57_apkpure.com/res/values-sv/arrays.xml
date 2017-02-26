@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="help_find_cure">
+        <item>När du anmäler dig till Folding@Home och upplåter din mobils kapacitet när du inte själv använder den hjälper du forskarna på Stanford University i deras strävan att hitta botemedel mot flera vanliga sjukdomar.</item>
+        <item>Veckning (folding) handlar om den proteinaktivitet som pågår i kroppen. Forskningen om proteinveckning kräver så omfattande beräkningar att forskarna på Stanford University ber att få låna kapaciteten hos enskilda individers mobiler när de inte själva använder den för att göra vissa av dessa beräkningar. Medan du sover skickas ett veckningsproblem från Stanford University till din mobil som den löser och sedan skickar tillbaka till Stanford.</item>
+        <item>"Du hittar mer information om Folding@Home på deras webbplats: 
+folding.stanford.edu"</item>
+    </string-array>
+</resources>

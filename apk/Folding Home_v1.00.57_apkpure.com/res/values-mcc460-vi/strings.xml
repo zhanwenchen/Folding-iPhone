@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_to_wifi">Điện thoại cần được kết nối với mạng WLAN</string>
+    <string name="data_usage_text">"Thiết bị của bạn phải được kết nối với mạng WLAN.
+Nếu bạn sử dụng kết nối WLAN phải trả tiền hoặc tính theo lưu lượng sử dụng, bạn có thể được tính phí cho mức sử dụng dữ liệu.
+
+Để biết thêm thông tin, hãy kiểm tra với nhà cung cấp dịch vụ Internet của bạn."</string>
+    <string name="no_cost_mobile_data_text">Điện thoại phải được kết nối với mạng WLAN.</string>
+    <string name="settings_auto_wifi_msg">Bật WLAN trong khi đóng góp</string>
+    <string name="whats_new_conditions_indicator">Cho biết WLAN đã sẵn sàng nhưng phải kết nối điện thoại với bộ sạc và pin phải được sạc 100%.</string>
+</resources>

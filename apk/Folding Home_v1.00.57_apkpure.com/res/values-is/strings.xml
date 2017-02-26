@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_achievements">Afrek</string>
+    <string name="action_disable">Gera óvirkt</string>
+    <string name="action_enable">Virkja</string>
+    <string name="action_invite_friends">Bjóða vinum</string>
+    <string name="action_leaderboards">Topplistar</string>
+    <string name="action_login">Innskrá</string>
+    <string name="action_logout">%1$s (Skrá út)</string>
+    <string name="active_research">Virk rannsókn</string>
+    <string name="app_disabled_message">Slökkt er á forritinu og ekki er hægt að nota það lengur.</string>
+    <string name="app_disabled_title">Slökkt á forriti</string>
+    <string name="battery_not_drained_text">Síminn verður að vera tengdur hleðslutæki og fullhlaðinn (100%)</string>
+    <string name="battery_not_drained_title">Rafhlaðan verður ekki tæmd</string>
+    <string name="connect_to_wifi">Síminn þarf að vera tengdur við Wi-Fi net.</string>
+    <string name="contributed_time">Tími framlags</string>
+    <string name="contribution_interval_time">Lengd framlags</string>
+    <string name="data_usage">Gagnanotkun</string>
+    <string name="data_usage_text">"Tækið þitt verður að vera tengt við Wi-Fi net.
+Ef þú notar mælda eða gjaldskylda Wi-Fi tengingu kann að vera innheimt fyrir gagnanotkun.
+
+Frekari upplýsingar færðu hjá netþjónustuveitunni þinni."</string>
+    <string name="disabled">Slökkt</string>
+    <string name="disclaimer_data_charges">Notkun þín á þjónustunni kann að kosta flutningsgjöld, allt eftir gagnaáskrift þinni hjá við þjónustuveitunni.</string>
+    <string name="disclaimer_privacy_consent">Ég samþykki Sony Mobile &lt;a href=\"http://www.sonymobile.com/privacy\">persónuverndarstefnuna&lt;/a></string>
+    <string name="disclaimer_terms">&lt;a href=http://www.sonymobile.com/terms-of-use-applications> Notkunarskilmálarnir&lt;/a> eiga við um notkun þína á forritinu.</string>
+    <string name="disclaimer_terms_and_privacy_consent">Ég samþykki Sony Mobile &lt;a href=http://www.sonymobile.com/terms-of-use-applications>notkunarskilmálana&lt;/a> og &lt;a href=\"http://www.sonymobile.com/privacy\">persónuverndarstefnuna&lt;/a></string>
+    <string name="disclaimer_terms_consent">"Ég samþykki  Sony Mobile &lt;a href=\"http://www.sonymobile.com/terms-of-use-applications\">notkunarskilmálana&lt;/a>"</string>
+    <string name="finish">Ljúka</string>
+    <string name="helping_out">Hjálpa til</string>
+    <string name="label_accept">Samþykkja</string>
+    <string name="label_agree">Samþykkja</string>
+    <string name="label_decline">Hafna</string>
+    <string name="label_disagree">Hafna</string>
+    <string name="label_open_source_label">Leyfi fyrir opinn hugbúnað</string>
+    <string name="label_terms_and_conditions">Skilmálar</string>
+    <string name="legal">Lagatexti</string>
+    <string name="more_info">Frekari upplýsingar</string>
+    <string name="new_indicators">Nýir vísar</string>
+    <string name="new_power_button">Nýr aflrofi</string>
+    <string name="no_cost_mobile_data_text">Síminn verður að vera tengdur við Wi-Fi net.</string>
+    <string name="no_cost_mobile_data_title">Gagnaflutningur kostar ekkert</string>
+    <string name="no_opencl">Tækið styður ekki við OpenCL. Þetta safn er nauðsynlegt til þess að vinna verk. Viltu halda áfram?</string>
+    <string name="notification_contribution_time">Takk. Þetta tæki hefur lagt af mörkum %1$s undanfarinn sólarhring.</string>
+    <string name="notification_service_executing_job">"Folding@Home er í gangi.
+Þú tekur þátt í vísindarannsókn."</string>
+    <string name="notification_service_finished_failed">Ekki voru öll skilyrði fyrir ræsingu uppfyllt.</string>
+    <string name="notification_service_finished_job_executed">Þú hefur lagt þitt af mörkum í þágu vísindanna</string>
+    <string name="notification_service_not_executing">"Folding@Home er ekki í gangi.
+Ekki eru allar forsendur til staðar."</string>
+    <string name="notification_service_turn_on">Kv. á til að leggja áfram af mörkum</string>
+    <string name="notifications">Tilkynningar</string>
+    <string name="pause">Hlé</string>
+    <string name="paused">Í bið</string>
+    <string name="people_helping">Fólk hjálpar til</string>
+    <string name="powered_by">knúið af</string>
+    <string name="private_date_safe_text">Þetta forrit getur ekki nálgast persónulegu gögnin þín.</string>
+    <string name="private_date_safe_title">Persónuleg gögn eru örugg.</string>
+    <string name="processing_time_text">Þú getur breytt upphafstímanum í stillingunum.</string>
+    <string name="processing_time_title">Útreikningartími er á milli %1$s – %2$s</string>
+    <string name="read_more">Lesa meira</string>
+    <string name="research_type">Rannsóknargerð</string>
+    <string name="research_type_unavailable">Ótiltækt</string>
+    <string name="settings">Stillingar</string>
+    <string name="settings_auto_wifi_msg">Kveikja á Wi-Fi á meðan á framlagi stendur</string>
+    <string name="settings_display_notification">Senda tilkynningar við lok útreikninga</string>
+    <string name="setup_guide">Uppsetningarleiðbeiningar</string>
+    <string name="share">Deila</string>
+    <string name="share_facebook_contribution">Deila á Facebook</string>
+    <string name="share_facebook_error">Ekki tókst að deila á Facebook</string>
+    <string name="share_facebook_success">Deilt á Facebook</string>
+    <string name="share_object_message">Ég er á meðal þeirra %1$d sem hafa hjálpað til og hef lagt fram %2$s af útreikningartíma!</string>
+    <string name="sign_in_google_game_service">Innskrá í Google Play™ leikjaþjónustu</string>
+    <string name="skip">Sleppa</string>
+    <string name="stand_by">Bíða</string>
+    <string name="start_contribute">Upphafstími</string>
+    <string name="start_contribute_text">Stilla upphafstíma útreikninga</string>
+    <string name="time_string_days">%1$dd %2$dklst %3$dm</string>
+    <string name="time_string_hours">%1$dklst %2$dm</string>
+    <string name="time_string_weeks">%1$d v %2$dd %3$dklst</string>
+    <string name="title_disclaimer">Notkunarupplýsingar</string>
+    <string name="toast_achievements_disabled">Skráðu þig inn til að skoða afrekin!</string>
+    <string name="toast_leaderboards_disabled">Skráðu þig inn til að skoða hæstu stigin!</string>
+    <string name="toast_logout">Útskráð</string>
+    <string name="toast_network_unavailable">Ekki er hægt að tengjast við kerfið</string>
+    <string name="turn_off">Slökkva</string>
+    <string name="turn_on">Kveikja</string>
+    <string name="view_more">Skoða meira</string>
+    <string name="waiting">Deili…</string>
+    <string name="welcome">Velkomin(n) í Folding@Home</string>
+    <string name="whats_new">Nýjungar</string>
+    <string name="whats_new_conditions_indicator">Gefur til kynna að Wi-Fi sé til reiðu, en að síminn verði að vera tengdur við hleðslutæki og rafhlaðan 100% hlaðin.</string>
+    <string name="whats_new_contributed_time">Gefur til kynna heildartíma þíns framlags.</string>
+    <string name="whats_new_contribution_indicators">Bætt tákn til að geta auðveldlega fylgst með stöðu þíns framlags.</string>
+    <string name="whats_new_contribution_status">Nú geturðu séð stöðu nauðsynlegra skilyrða til að keyra Folding@Home.</string>
+    <string name="whats_new_disable_indicator">Gefur til kynna að slökkt sé á forritinu.</string>
+    <string name="whats_new_enable_indicator">Gefur til kynna að öll skilyrði séu tilbúin.</string>
+    <string name="whats_new_login">Nú geturðu innskráð þig og hlaðið upp þínu framlagi.</string>
+    <string name="whats_new_people_helping">Gefur til kynna fjölda þeirra sem nota Folding@Home.</string>
+    <string name="whats_new_power_button">Nú er auðveldara að virkja eða slökkva á forritinu. Þú getur líka séð núverandi stöðu Folding@Home.</string>
+    <string name="whats_new_research_type">Gefur til kynna rannsóknirnar sem þú veitir framlag til.</string>
+    <string name="will_start_when">Upphafsaðstæður</string>
+    <string name="wizard_step">Skref %1$d/%2$d</string>
+    <string name="wizard_welcome_to_folding_subtitle">Vilt þú hjálpa til við að finna lækningu við Alzheimer, Parkinsonsveiki og krabbameini?</string>
+    <string name="wizard_welcome_to_folding_text">Síminn þinn getur gert vísindaútreikninga á meðan þú sefur og hjálpað þannig vísindamönnum við Stanford-háskóla að finna lækningu við mörgum sjúkdómum.</string>
+</resources>

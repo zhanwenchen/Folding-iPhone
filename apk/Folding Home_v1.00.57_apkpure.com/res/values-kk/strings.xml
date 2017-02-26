@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_achievements">Жетістіктер</string>
+    <string name="action_disable">Өшіру</string>
+    <string name="action_enable">Қосу</string>
+    <string name="action_invite_friends">Достарды шақыру</string>
+    <string name="action_leaderboards">Үздіктер тізімі</string>
+    <string name="action_login">Жүйеге кіру</string>
+    <string name="action_logout">%1$s (Шығу)</string>
+    <string name="active_research">Белсенді іздеу</string>
+    <string name="app_disabled_message">Бұл қолданба өшірілді және оны бұдан былай пайдалану мүмкін емес.</string>
+    <string name="app_disabled_title">Қолданба өшірілді</string>
+    <string name="battery_not_drained_text">Телефон зарядтау құрылғысына жалғануы және толық зарядталуы керек (100%)</string>
+    <string name="battery_not_drained_title">Батарея бос болмауы керек</string>
+    <string name="connect_to_wifi">Телефон Wi-Fi желісіне жалғануы керек</string>
+    <string name="contributed_time">Қатысқан уақыт</string>
+    <string name="contribution_interval_time">Қатысу ұзақтығы</string>
+    <string name="data_usage">Деректерді пайдалану</string>
+    <string name="data_usage_text">"Құрылғыңыз Wi-Fi желісіне қосылған болуы тиіс.
+Егер өлшенетін немесе ақылы Wi-Fi байланысын пайдалансаңыз, деректерді пайдалану үшін ақы төлеуіңіз мүмкін.
+
+Қосымша ақпарат алу үшін Интернет провайдеріне хабарласыңыз."</string>
+    <string name="disabled">Өшірілген</string>
+    <string name="disclaimer_data_charges">Бұл қызметті пайдалану үшін қызмет көрсетушімен деректер тарифтік жоспарына байланысты деректер тасымалының ақысы алынуы мүмкін.</string>
+    <string name="disclaimer_privacy_consent">Мен Sony Mobile компаниясының &lt;a href=\"http://www.sonymobile.com/privacy\">Құпиялылық саясатымен&lt;/a> келісемін</string>
+    <string name="disclaimer_terms">&lt;a href=http://www.sonymobile.com/terms-of-use-applications>Шарттар мен талаптар&lt;/a> бағдарламаны пайдалану үшін қолданылады.</string>
+    <string name="disclaimer_terms_and_privacy_consent">Мен Sony Mobile компаниясының &lt;a href=http://www.sonymobile.com/terms-of-use-applications>Шарттары мен талаптарымен&lt;/a> және &lt;a href=\"http://www.sonymobile.com/privacy\">Құпиялылық саясатымен&lt;/a> келісемін</string>
+    <string name="disclaimer_terms_consent">Мен Sony Mobile компаниясының &lt;a href=\"http://www.sonymobile.com/terms-of-use-applications\">Шарттары мен талаптарымен&lt;/a> келісемін</string>
+    <string name="finish">Аяқтау</string>
+    <string name="helping_out">Көмектесу</string>
+    <string name="label_accept">Қабылдау</string>
+    <string name="label_agree">Келісу</string>
+    <string name="label_decline">Қабылдамау</string>
+    <string name="label_disagree">Келіспеу</string>
+    <string name="label_open_source_label">Ашық деректер көзі лицензиялары</string>
+    <string name="label_terms_and_conditions">Шарттар мен талаптар</string>
+    <string name="legal">Заңды</string>
+    <string name="more_info">Қосымша ақпарат</string>
+    <string name="new_indicators">Жаңа көрсеткіштер</string>
+    <string name="new_power_button">Жаңа қуат түймесі</string>
+    <string name="no_cost_mobile_data_text">Телефон Wi-Fi желісіне қосулы болуы керек.</string>
+    <string name="no_cost_mobile_data_title">Мобил. деректер. бағасы жоқ</string>
+    <string name="no_opencl">Құрылғы OpenCL қолдамайды. Бұл кітапхана тапсырмалар орындауға қажетті. Жалғастырғыңыз келе ме?</string>
+    <string name="notification_contribution_time">Рақмет. Бұл құрылғы соңғы 24 сағат ішінде %1$s жұмсады.</string>
+    <string name="notification_service_executing_job">"Folding@Home жұмыс істеп тұр. 
+Сіз ғылыми зерттеуге қатысасыз."</string>
+    <string name="notification_service_finished_failed">Кейбір бастапқы шарттар орындалмады</string>
+    <string name="notification_service_finished_job_executed">Сіз ғылымға үлес қостыңыз</string>
+    <string name="notification_service_not_executing">"Folding@Home жұмыс істеп тұрған жоқ.
+Барлық бастау шарттары сәйкес емес."</string>
+    <string name="notification_service_turn_on">Қатысуды жалғас-у үшін қосыңыз</string>
+    <string name="notifications">Хабарландырулар</string>
+    <string name="pause">Уақытша тоқтату</string>
+    <string name="paused">Кідіртілді</string>
+    <string name="people_helping">Адамдарға көмектесу</string>
+    <string name="powered_by">Негізінде</string>
+    <string name="private_date_safe_text">Бұл қолданба жеке деректеріңізге кірмейді.</string>
+    <string name="private_date_safe_title">Жеке деректеріңіз қауіпсіз.</string>
+    <string name="processing_time_text">Параметрлердегі бастау уақытын өзгертуіңізге болады.</string>
+    <string name="processing_time_title">Есепт. кел. мән аралығ. %1$s - %2$s</string>
+    <string name="read_more">Қосымша ақпарат алу</string>
+    <string name="research_type">Зерттеу түрі</string>
+    <string name="research_type_unavailable">Қолжетімді емес</string>
+    <string name="settings">Параметрлер</string>
+    <string name="settings_auto_wifi_msg">Қатысу кезінде Wi-Fi желісін қосу</string>
+    <string name="settings_display_notification">Есептеудің соңында хабарландыру жіберу</string>
+    <string name="setup_guide">Орнату нұсқаулығы</string>
+    <string name="share">Бөлісу</string>
+    <string name="share_facebook_contribution">Facebook сайтында бөлісу</string>
+    <string name="share_facebook_error">Facebook сайтында бөлісілмейді</string>
+    <string name="share_facebook_success">Facebook сайтында сәтті бөлісілді</string>
+    <string name="share_object_message">Мен %1$d қатысушы адамдардың бірімін және %2$s есептеу уақытына қатыстым!</string>
+    <string name="sign_in_google_game_service">Google Play™ ойындар қызметіне кіру</string>
+    <string name="skip">Өткізу</string>
+    <string name="stand_by">Күту режимі</string>
+    <string name="start_contribute">Бастау уақыты</string>
+    <string name="start_contribute_text">Есептеудің бастау уақытын белгілеу</string>
+    <string name="time_string_days">%1$dқ%2$dб %3$dм</string>
+    <string name="time_string_hours">%1$dб%2$dм</string>
+    <string name="time_string_weeks">%1$dе %2$dқ %3$dб</string>
+    <string name="title_disclaimer">Пайдалану жөніндегі мәліметтер</string>
+    <string name="toast_achievements_disabled">Жетістіктерді көру үшін кіріңіз!</string>
+    <string name="toast_leaderboards_disabled">Лидерлер кестесін көру үшін кіріңіз!</string>
+    <string name="toast_logout">Жүйеден шықты</string>
+    <string name="toast_network_unavailable">Желі қол жетімді емес</string>
+    <string name="turn_off">Өшіру</string>
+    <string name="turn_on">Қосу</string>
+    <string name="view_more">Қос. көру</string>
+    <string name="waiting">Бөлісу…</string>
+    <string name="welcome">Folding@Home жоб. қош келд.</string>
+    <string name="whats_new">Жаңалықтар</string>
+    <string name="whats_new_conditions_indicator">Wi-Fi желісінің дайын екендігін, бірақ телефонды зарядтағышқа қосу керектігін және батареяны 100% зарядтау қажеттігін көрсетеді.</string>
+    <string name="whats_new_contributed_time">Қосқан үлесіңіздің жалпы уақытын көрсетеді.</string>
+    <string name="whats_new_contribution_indicators">Қосқан үлесіңіздің күйін оңай қадағалауға арналған жақсартылған белгішелер.</string>
+    <string name="whats_new_contribution_status">Енді Folding@Home қолданбасын іске қосу үшін қажетті шарттар күйін көре аласыз.</string>
+    <string name="whats_new_disable_indicator">Қолданбаның өшірілгенін көрсетеді.</string>
+    <string name="whats_new_enable_indicator">Барлық шарттардың орындалғандығын көрсетеді.</string>
+    <string name="whats_new_login">Енді жүйеге кіріп, деректеріңізді жүктей аласыз.</string>
+    <string name="whats_new_people_helping">Folding@Home қолданбасын пайдаланатын адамдардың санын көрсетеді.</string>
+    <string name="whats_new_power_button">Енді қолданбаны қосу немесе өшіру оңайырақ. Folding@Home қолданбасының ағымдағы күйін де көре аласыз.</string>
+    <string name="whats_new_research_type">Сіз қатысып отырған зерттеуді көрсетеді.</string>
+    <string name="will_start_when">Бастау шарттары</string>
+    <string name="wizard_step">Қадам %1$d/%2$d</string>
+    <string name="wizard_welcome_to_folding_subtitle">Альцгеймер, Паркинсон және қатерлі ісік ауруларына ем табуға көмектескіңіз келе ме?</string>
+    <string name="wizard_welcome_to_folding_text">Телефоныңыз ұйықтап жатқанда ғылыми зерттеулер жасай алады және Стэнфорд университетінің ғалымдарына көптеген аурулардың емін табуға көмектеседі.</string>
+</resources>

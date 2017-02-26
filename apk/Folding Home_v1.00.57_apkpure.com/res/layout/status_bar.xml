@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/status_bar_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="6.0" android:paddingStart="@dimen/margin_small" android:paddingEnd="@dimen/margin_small"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_wifi" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/wifi_bt" android:layout_weight="1.0" android:contentDescription="@string/wifi" />
+    <ImageView android:id="@id/iv_charger" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/charger_bt" android:layout_weight="1.0" android:contentDescription="@string/app_name" />
+    <ImageView android:id="@id/iv_battery" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/battery_bt" android:layout_weight="1.0" android:contentDescription="@string/app_name" />
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/wizard_progress_frame_min_size">
+        <com.sonymobile.androidapp.gridcomputing.views.CheckableImageButton android:layout_gravity="center" android:id="@id/summary_menu_power_toggle" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/power_bt" />
+        <com.sonymobile.androidapp.gridcomputing.views.StatusProgressBar android:layout_gravity="center" android:id="@id/progress" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/wizard_button_width" android:maxHeight="@dimen/wizard_button_width" android:indeterminate="true" android:mirrorForRtl="true" />
+    </FrameLayout>
+    <com.sonymobile.androidapp.gridcomputing.views.SingleLineTextView android:textColor="@drawable/status_contibution_text_selector" android:id="@id/summary_status_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/disabled" android:layout_weight="3.0" android:textAlignment="viewEnd" />
+</LinearLayout>
