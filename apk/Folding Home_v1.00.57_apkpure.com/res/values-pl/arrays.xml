@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Rejestrując się w usłudze Folding@Home, możesz pomóc naukowcom z Uniwersytetu Stanforda w pracach nad lekami na wiele często występujących chorób, przekazując na ten cel moc obliczeniową telefonu w czasie, gdy z niego nie korzystasz.</item>
-        <item>Proces zwijania dotyczy działania białek w organizmie człowieka. Badania nad zjawiskiem zwijania białek wymagają tak wielu obliczeń, że Uniwersytet Stanforda prosi użytkowników o przekazanie na ten cel nieużywanej mocy przetwarzania ich telefonów. Gdy nie używasz telefonu, wysyłany jest do niego problem obliczeniowy do rozwiązania. Po zakończeniu obliczeń wyniki są odsyłane do Uniwersytetu Stanforda.</item>
-        <item>"Więcej informacji na temat usługi Folding@Home można znaleźć na stronie głównej projektu:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Prijavom u projekt Folding@Home i donacijom procesorske snage telefona kad ga ne koristite pomažete naučnicima univerziteta Stanford u njihovoj potrazi za lijekom za najčešće bolesti.</item>
-        <item>"Proteinsko savijanje odnosi se na proteinske aktivnosti u našem tijelu. Istraživanja preoteinskog savijanja zahtijevaju jako puno izračunavanja za koje je univerzitet u Stanfordu zatražio da korisnici telefona' doniraju neiskorištenu procesorsku snagu za obradu nekih od brojeva. Dok vi spavate, univerzitet Stanford poslat će problem proteinskog savijanja da ga vaš telefon riješi. Kada se izračunavanje završi, rezultati se šalju nazad u Stanford."</item>
-        <item>"Više informacija o projektu Folding@Home možete naći na početnoj stranici:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

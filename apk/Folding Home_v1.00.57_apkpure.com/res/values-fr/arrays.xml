@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>"En participant au projet Folding@Home et en faisant don de la puissance de calcul de votre appareil lorsque vous ne l'utilisez pas, vous aidez les chercheurs de l'Université de Stanford dans leur lutte contre les maladies les plus courantes."</item>
-        <item>"Le terme \"Folding\" fait référence au repliement des protéines dans notre organisme. La recherche dans ce domaine nécessite tellement de calculs que l'Université de Stanford demande à des volontaires de faire le don de la puissance de calcul non utilisée de leurs téléphones portables pour en réaliser une partie. Ainsi, pendant votre sommeil, l'Université de Stanford enverra un problème à résoudre à votre téléphone. Ces calculs terminés, les résultats seront renvoyé à Stanford."</item>
-        <item>"Pour plus d'informations sur le projet Folding@Home, accédez à sa page d'accueil :
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

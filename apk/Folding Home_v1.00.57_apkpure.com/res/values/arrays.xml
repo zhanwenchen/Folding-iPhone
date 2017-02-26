@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>"By signing up for Folding@Home, you help Stanford University scientists in their quest to find the cure for many of our most common diseases by donating your phone's processing power when you aren't using it yourself."</item>
-        <item>"Folding refers to protein activities in our bodies. The research of protein folding requires so many calculations that Stanford University asks people to donate their phones' unused processing power to crunch some of the numbers. When you sleep, Stanford University will send a folding problem for your phone to solve. Once calculations are complete, the results are sent back to Stanford."</item>
-        <item>"You can find more information about Folding@Home on the homepage:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

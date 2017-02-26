@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>S prijavo v projekt Folding@Home boste znanstvenikom z univerze Stanford v pomoč pri odkrivanju zdravila za številne najpogostejše bolezni tako, da darujete zmogljivost obdelave podatkov svojega telefona, kadar je ne uporabljate sami.</item>
-        <item>Zvijanje se nanaša na dejavnosti proteinov v naših telesih. Pri raziskavi zvijanja proteinov je potrebno toliko izračunov, da univerza Stanford prosi ljudi, naj darujejo neuporabljeno moč obdelave v telefonih, da bi lahko preučili nekaj vrednosti. Ko spite, bo univerza Stanford vašemu telefonu poslala nalogo v zvezi z zvijanjem, ki jo mora telefon rešiti. Po koncu izračunov se rezultati pošljejo nazaj v Stanford.</item>
-        <item>"Več informacij o projektu Folding@Home lahko najdete na domači strani:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

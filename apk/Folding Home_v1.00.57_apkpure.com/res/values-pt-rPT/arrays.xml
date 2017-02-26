@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Ao inscrever-se em Folding@Home, está a ajudar os cientistas da Universidade de Stanford na procura da cura para muitas das doenças mais comuns através da disponibilização do poder de processamento do seu telemóvel quando não o está a utilizar.</item>
-        <item>O dobramento refere-se às atividades das proteínas no nosso organismo. A investigação do dobramento de proteínas requer uma grande quantidade de cálculos, pelo que a Universidade de Stanford pede às pessoas que doem o poder de processamento não utilizado nos respetivos telemóveis para quebrar alguns dos números. Quando estiver a dormir, a Universidade de Stanford envia um problema de dobramento para que o seu telemóvel o resolva. Quando o cálculo termina, os resultados são enviados de volta para Stanford.</item>
-        <item>"Mais informações sobre o Folding@Home estão disponíves na página inicial:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

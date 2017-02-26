@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Înscriindu-vă la programul Folding@Home, veți ajuta oamenii de știință de la Stanford University în încercarea lor de a găsi remediul pentru multe dintre bolile comune ale omenirii, donând puterea de procesare a telefonului atunci când nu o folosiți.</item>
-        <item>Plierea (folding) constituie o activitate a proteinelor din organismele noastre. Deoarece pentru cercetarea plierii proteinelor este nevoie de un număr imens de calcule, Stanford University le adresează oamenilor rugămintea de a-și dona puterea de procesare neutilizată a telefoanelor pentru a obține o parte din rezultate. Atunci când dormiți, Stanford University va trimite pe telefonul dvs. o problemă de pliere pentru a fi rezolvată. După finalizarea calculelor, rezultatele sunt trimise înapoi la Stanford.</item>
-        <item>"Puteți găsi mai multe informații despre Folding@Home pe pagina de pornire:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

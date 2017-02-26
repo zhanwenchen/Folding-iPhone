@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Als je je aanmeldt voor Folding@Home, help je de wetenschappers van Stanford University bij hun missie veel van onze meest voorkomende ziektes te genezen. Je stelt namelijk de rekenkracht van je telefoon beschikbaar wanneer je deze niet zelf gebruikt.</item>
-        <item>Folding (eiwitvouwing in het Nederlands) verwijst naar eiwitprocessen in het menselijk lichaam. Voor het onderzoek naar eiwitvouwing zijn zo veel berekeningen nodig dat Stanford University mensen vraagt de ongebruikte rekenkracht van hun telefoons beschikbaar te stellen om een aantal berekeningen uit te voeren. Wanneer je slaapt, stuurt Stanford University een probleem voor eiwitvouwing dat je telefoon helpt op te lossen. Zodra de berekeningen zijn voltooid, worden de resultaten teruggestuurd naar Stanford.</item>
-        <item>"Je vindt meer informatie over Folding@Home op de startpagina:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

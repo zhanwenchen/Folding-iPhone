@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_enabled="false" android:drawable="@drawable/ic_battery_energy_off" />
-    <item android:state_enabled="true" android:drawable="@drawable/ic_battery_energy_pending" android:state_activated="false" />
-    <item android:state_enabled="true" android:drawable="@drawable/ic_battery_energy_on" android:state_activated="true" />
-</selector>

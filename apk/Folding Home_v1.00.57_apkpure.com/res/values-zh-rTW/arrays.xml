@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>註冊Folding@Home之後，你即可藉由在不使用手機時分享你手機的處理能力，為史丹佛大學科學家研究大部分常見疾病的治療方式上貢獻一己之力。</item>
-        <item>折疊指的是我們體內的蛋白質活動。對蛋白質折疊的研究需要大量計算，因此史丹佛大學要求人們貢獻不使用的手機處理能力，以便處理其中一些數字。在您睡眠時，史丹佛大學會向您的手機傳送一個折疊問題進行處理。計算完成後，結果將傳回史丹佛大學。</item>
-        <item>"您可以在以下首頁找到有關Folding@Home的更多資訊︰
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

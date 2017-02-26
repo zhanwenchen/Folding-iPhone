@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Folding@Home aplikazioan erregistratuz gero, gaixotasun arruntenetarako sendabideak aurkitzen lagunduko diezu Stanfordeko unibertsitateko zientzialariei. Horrela, telefonoa erabiltzen ez duzunean, aplikazioak telefonoaren prozesatze energia ematen die zientzialariei.</item>
-        <item>Folding ingelesezko hitzak (tolestura, euskaraz) gure gorputzeko proteinen jarduerari egiten dio erreferentzia. Proteinen tolestura ikertzeko hainbeste kalkulu behar dira, ezen Standfordeko Unibertsitateak jendeari eskatzen dion telefonoen erabili gabeko prozesatze energia utz diezaion zenbaki batzuk prozesatzeko. Lo zaudenean, Standfordeko Unibertsitateak ebatzi beharreko tolestura problema bat bidaliko du telefonora. Kalkuluak burutu ondoren, emaitzak Standfordera bueltan bidaliko dira.</item>
-        <item>"Folding@Home aplikazioari buruzko informazio gehiago aurki dezakezu orri honetan:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

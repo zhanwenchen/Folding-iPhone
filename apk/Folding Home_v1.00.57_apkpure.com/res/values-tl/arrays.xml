@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Sa pamamagitan ng pag-sign up para sa Folding@Home, matutulungan mo ang mga siyentipiko ng Stanford University sa kanilang layunin na makahanap ng gamot sa halos lahat na pangkaraniwang mga sakit sa pag-donate ng lakas ng pagproseso ng iyong telepono sa tuwing hindi mo ito ginagamit.</item>
-        <item>Tinutukoy ng Folding ang mga aktibidad ng protina sa ating mga katawan. Ang pananaliksik ng protein folding ay nagngangailangan ng napakaraming kalkulasyon kaya nagpapa-donate ang Stanford University sa mga tao ng hindi nagagamit na lakas ng pagproseso ng mga telepono nila para kalkulahin ang ilan sa mga numero. Habang natutulog ka, magpapadala ang Stanford University ng folding problem para lutasin ng telepono mo. Kapag kumpleto na ang mga kalkulasyon, ipadadala pabalik ang mga resulta sa Stanford.</item>
-        <item>"Makakahanap ka ng higit pang impormasyon tungkol sa Folding@Home sa homepage:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

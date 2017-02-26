@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Når du tilmelder dig Folding@Home, hjælper du forskerne ved Stanford University i deres søgen efter en kur mod de mest almindelige sygdomme ved at donere din telefons processorkraft, når du ikke selv anvender den.</item>
-        <item>Foldning refererer til kroppens proteinaktiviteter. Forskningen i proteinfoldning kræver så mange beregninger, at Stanford University beder folk om at donere deres telefoners ubrugte processorkraft til at beregne nogle af tallene. Når du sover, sender Stanford University et foldningsproblem, som din telefon skal løse. Når beregningerne er fuldført, sendes resultaterne tilbage til Stanford.</item>
-        <item>"Du kan få flere oplysninger om Folding@Home på webstedet:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

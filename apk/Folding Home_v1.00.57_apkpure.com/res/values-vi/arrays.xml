@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Khi đăng ký Folding@Home, bạn đã giúp đỡ các nhà khoa học của Đại học Stanford trong quá trình tìm kiếm cách chữa trị những căn bệnh mà chúng ta thường gặp nhất bằng cách quyên tặng sức mạnh xử lý của điện thoại khi không sử dụng đến.</item>
-        <item>Gấp nếp đề cập đến các hoạt động của protein trong cơ thể chúng ta. Nghiên cứu về gấp nếp protein yêu cầu số lượng phép tính nhiều đến mức Đại học Stanford đã phải nhờ mọi người quyên tặng phần sức mạnh xử lý không sử dụng đến trên điện thoại của mình để giải quyết một số con số. Khi bạn ngủ, Đại học Stanford sẽ gửi một vấn đề về gấp nếp đến điện thoại của bạn để giải quyết. Sau khi các phép tính hoàn tất, kết quả sẽ được gửi lại cho Stanford.</item>
-        <item>"Bạn có thể tìm thêm thông tin về Folding@Home trên trang chủ:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

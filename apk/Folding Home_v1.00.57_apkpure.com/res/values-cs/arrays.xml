@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>Registrací v projektu Folding@Home pomůžete vědcům ze Stanfordské univerzity v  jejich úsilí najít lék na mnoho našich nejběžnějších nemocí. Vaše pomoc spočívá v tom, že darujete procesorový výkon svého telefonu v době, když jej nevyužíváte.</item>
-        <item>Skládání (z angl. „folding“) označuje aktivity bílkovin v našem těle. Výzkum skládání bílkovin vyžaduje tolik výpočtů, že Stanfordská univerzita žádá uživatele, aby darovali nevyužitý procesorový čas svých telefonů k řešení tohoto problému. Když spíte, zašle vám Stanfordská univerzita úlohu skládání ke zpracování vaším telefonem. Po dokončení výpočtů jsou výsledky odeslány zpět do Stanfordu.</item>
-        <item>"Další informace o projektu Folding@Home naleznete na jeho domovské stránce:
-folding.stanford.edu"</item>
-    </string-array>
-</resources>

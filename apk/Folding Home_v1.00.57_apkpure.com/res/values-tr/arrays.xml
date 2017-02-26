@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="help_find_cure">
-        <item>"Folding@Home'a kaydolarak, kullanmadığınız zamanlarda telefonunuzun işlemci gücünü bağışlayabilir ve Stanford Üniversitesi'ndeki bilim insanlarının en yaygın görülen hastalıklara çare bulmasına yardımcı olabilirsiniz."</item>
-        <item>"\"Katlanma\" vücudumuzdaki proteinlerin hareketini ifade eder. Protein katlanması konusunda yapılan araştırmalar çok fazla hesaplama gerektirmektedir. Bu nedenle Stanford Üniversitesi, bu hesaplamaları yapabilmek için insanlardan kullanılmayan cep telefonu işlemci gücünün bir kısmını bağışlamalarını istiyor. Siz uyurken, Stanforfd Üniversitesi telefonunuza çözmesi için bir katlama problemi gönderecek. Hesaplama tamamlandığında, sonuçlar Stanford'a iletilecek."</item>
-        <item>"Folding@Home hakkında daha fazla bilgiyi ana sayfada bulabilirsiniz:
-folding.stanford.edu ."</item>
-    </string-array>
-</resources>

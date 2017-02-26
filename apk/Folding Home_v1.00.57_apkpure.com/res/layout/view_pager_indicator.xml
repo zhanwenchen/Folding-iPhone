@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<View android:id="@id/view_pager_indicator" android:background="@drawable/pager_indicator_selector" android:layout_width="@dimen/page_indicator_size" android:layout_height="@dimen/page_indicator_size" android:layout_margin="@dimen/margin_x_small"
-  xmlns:android="http://schemas.android.com/apk/res/android" />
